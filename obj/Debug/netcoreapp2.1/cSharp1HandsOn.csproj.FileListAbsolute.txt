@@ -1,0 +1,11 @@
+/Users/cliff/Desktop/cSharp1HandsOn/bin/Debug/netcoreapp2.1/cSharp1HandsOn.deps.json
+/Users/cliff/Desktop/cSharp1HandsOn/bin/Debug/netcoreapp2.1/cSharp1HandsOn.runtimeconfig.json
+/Users/cliff/Desktop/cSharp1HandsOn/bin/Debug/netcoreapp2.1/cSharp1HandsOn.runtimeconfig.dev.json
+/Users/cliff/Desktop/cSharp1HandsOn/bin/Debug/netcoreapp2.1/cSharp1HandsOn.dll
+/Users/cliff/Desktop/cSharp1HandsOn/bin/Debug/netcoreapp2.1/cSharp1HandsOn.pdb
+/Users/cliff/Desktop/cSharp1HandsOn/obj/Debug/netcoreapp2.1/cSharp1HandsOn.csprojAssemblyReference.cache
+/Users/cliff/Desktop/cSharp1HandsOn/obj/Debug/netcoreapp2.1/cSharp1HandsOn.csproj.CoreCompileInputs.cache
+/Users/cliff/Desktop/cSharp1HandsOn/obj/Debug/netcoreapp2.1/cSharp1HandsOn.AssemblyInfoInputs.cache
+/Users/cliff/Desktop/cSharp1HandsOn/obj/Debug/netcoreapp2.1/cSharp1HandsOn.AssemblyInfo.cs
+/Users/cliff/Desktop/cSharp1HandsOn/obj/Debug/netcoreapp2.1/cSharp1HandsOn.dll
+/Users/cliff/Desktop/cSharp1HandsOn/obj/Debug/netcoreapp2.1/cSharp1HandsOn.pdb
